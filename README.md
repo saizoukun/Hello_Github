@@ -1,3 +1,3 @@
-# Hello_Github
+#Hello_github
 
-# 始めてのリポジトリです.
+こんにちは、ギットハブ！
